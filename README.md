@@ -26,7 +26,8 @@ The research paper, titled **"Adapting SAM to Histopathology Images for Tumor Bu
 1. Place your histopathology dataset in the `datasets/` folder.
    - Ensure the dataset consists of images and corresponding labels for tumor bud segmentation.
    - You can use publicly available datasets or provide your own.
-   Before passing directly into modle we used fourier transform:preprocessing.png
+2. Before passing the dataset directly into the model, we applied a Fourier Transform preprocessing step:  
+![Fourier Transform Preprocessing](preprocessing.png)
 
 ### Step 3: Modify Configurations (Optional)
 
