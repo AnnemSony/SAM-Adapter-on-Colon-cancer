@@ -2,6 +2,7 @@
 The research paper were published in SPIE conference:
 https://spie.org/medical-imaging/presentation/Adapting-SAM-to-histopathology-images-for-tumor-bud-segmentation-in/12933-11?enableBackToBrowse=true#_=_
 # Adapting SAM for Tumor Bud Segmentation in Histopathology Images.
+![Sample Result](result.png)
 Full code can be provided based on request:annemsony.137@gmail.com.
 
 This project demonstrates how to adapt the Segment Anything Model (SAM) for tumor bud segmentation in histopathology images, as presented in the SPIE Medical Imaging Conference. The paper highlights a novel approach for segmenting tumor buds in medical images using SAM, which is fine-tuned to detect complex structures like tumor buds in histopathology slides.
